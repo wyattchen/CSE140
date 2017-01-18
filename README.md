@@ -1,2 +1,2 @@
 # CSE140
-All my project, lab, and homework files 
+This repository will contain all my Project, Homework, and Lab files 
