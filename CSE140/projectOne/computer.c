@@ -11,7 +11,7 @@ unsigned int Fetch (int);
 void Decode (unsigned int, DecodedInstr*, RegVals*);
 int Execute (DecodedInstr*, RegVals*);
 int Mem(DecodedInstr*, int, int *);
-void RegWrite(DecodedInstr*, int, int *);
+void RegWrite(DecodedInstr*, jhjgjjhgint, int *);
 void UpdatePC(DecodedInstr*, int);
 void PrintInstruction (DecodedInstr*);
 
